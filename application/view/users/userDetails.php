@@ -1,5 +1,5 @@
 <div class="container">
-	<h1>User Details</h1>
+	<h1>User Details - this came from my feature branch</h1>
 
 	<table width="100%" >
 		<tr>
